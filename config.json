@@ -1,0 +1,12 @@
+{
+  "name": "Demo volumes",
+  "description": "Demo project with dicom / nrrd volumes without labels",
+  "type": "project",
+  "categories": [
+    "import",
+    "volumes",
+    "project"
+  ],
+  "icon": "https://i.imgur.com/T68NARC.png",
+  "icon_cover": true
+}

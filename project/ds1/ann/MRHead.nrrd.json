@@ -1,0 +1,70 @@
+{
+    "volumeMeta": {
+        "ACS": "RAS",
+        "intensity": {
+            "max": 279,
+            "min": 0
+        },
+        "windowWidth": 279,
+        "rescaleSlope": 1,
+        "windowCenter": 139.5,
+        "channelsCount": 1,
+        "dimensionsIJK": {
+            "x": 130,
+            "y": 256,
+            "z": 256
+        },
+        "IJK2WorldMatrix": [
+            1.2999954223632812,
+            0,
+            0,
+            -86.64489746093749,
+            0,
+            1,
+            0,
+            -121.07139587402344,
+            0,
+            0,
+            1,
+            -138.21430206298828,
+            0,
+            0,
+            0,
+            1
+        ],
+        "rescaleIntercept": 0
+    },
+    "key": "52189ff1efa7405491cedf3d84efbf3a",
+    "tags": [],
+    "objects": [],
+    "planes": [
+        {
+            "name": "sagittal",
+            "normal": {
+                "x": 1,
+                "y": 0,
+                "z": 0
+            },
+            "slices": []
+        },
+        {
+            "name": "coronal",
+            "normal": {
+                "x": 0,
+                "y": 1,
+                "z": 0
+            },
+            "slices": []
+        },
+        {
+            "name": "axial",
+            "normal": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "slices": []
+        }
+    ],
+    "spatialFigures": []
+}
