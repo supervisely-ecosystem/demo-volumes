@@ -53,7 +53,7 @@ Included volumes:
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/remote.php/webdav/apps/demo-volumes/demo_volumes.zip) (114,5 MB).
+Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906631) (114,5 MB).
 
 ## Statistics
 
