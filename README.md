@@ -1,8 +1,8 @@
 <div align="center" markdown> 
 
-<img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
+<img src="media/eco.png" width="250" /> <br>
 
-<img src="https://i.imgur.com/Lth5e29.png" width="100"/> 
+<img src="media/logo.png" width="100"/> 
 
 # Demo Volumes  
 
@@ -37,15 +37,15 @@ Included volumes:
     <tr style="width: 100%">
       <td>
         <b>CTACardio.nrrd</b>
-        <img src="https://i.imgur.com/spuVRGL.png" style="width:150%;"/>
+        <img src="media/ctac.png" style="width:150%;"/>
       </td>
       <td>
         <b>CTChest.nrrd</b>
-        <img src="https://i.imgur.com/OZ8xxQ0.png" style="width:150%;"/>
+        <img src="media/ctchest.png" style="width:150%;"/>
       </td>
       <td>
         <b>MRHead.nrrd</b>
-        <img src="https://i.imgur.com/iycBr5i.png" style="width:150%;"/>
+        <img src="media/mrhead.png" style="width:150%;"/>
       </td>
     </tr>
   </table>
