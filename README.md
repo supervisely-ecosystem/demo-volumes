@@ -53,7 +53,7 @@ Included volumes:
 
 ## Download
 
-Direct download: [zip archive](https://cloud.enterprise.supervise.ly/f/906631) (114,5 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-volumes/releases/download/v1.0.0/project.zip) (114,5 MB).
 
 ## Statistics
 
